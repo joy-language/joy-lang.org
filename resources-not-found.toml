@@ -1,0 +1,19 @@
+title = "Resources not Found"
+
+[C-sources-and-the-Joy-libraries]
+
+  [[C-sources-and-the-Joy-libraries.C-sources]]
+  "The old Joy0 C-files The prototype has now been abandoned" = "/joy/j0src.html"
+  "John Cowan's site: his joy.tar.gz" = "http://www.ccil.org/~cowan/joy.tar.gz"
+
+  [[C-sources-and-the-Joy-libraries.C-sources]]
+    [C-sources-and-the-Joy-libraries.C-sources.The-new-Joy1-C-sources-including-a-ta-gz]
+    "online-man.txt online manual for (raw) Joy1" = "/joy/online-man.txt"
+
+  [[C-sources-and-the-Joy-libraries.C-sources]]
+  "Bugs, Fixes and Plans(30-Oct-01)" = "/joy/bugfix.html"
+
+  [C-sources-and-the-Joy-libraries.Joy-libraries]
+    [[C-sources-and-the-Joy-libraries.Joy-libraries.The-special-libraries]]
+    "rabbit (external) a Joy to HTML translation library by Heiko Kuhrt, it contains an extensive Joy manual in HTML format" = "https://groups.yahoo.com/neo/groups/concatenative/files/rabbit"
+    "mandel (external) several Mandelbrot programs in Joy by Nick Forde et. al. collected by Nick Forde" = "https://groups.yahoo.com/neo/groups/concatenative/files/mandel"

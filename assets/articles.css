@@ -1,0 +1,21 @@
+p {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+hr {
+  margin-bottom: 16px;
+}
+
+pre {
+  margin-bottom: auto;
+  font-family: "Roboto Mono", monospace;
+}
+
+code {
+  font-family: "Roboto Mono", monospace;
+}
+
+kbd {
+  font-family: "Roboto Mono", monospace;
+}
