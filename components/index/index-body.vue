@@ -9,7 +9,7 @@
       <li><nuxt-link to="rationale-for-joy">Rationale for Joy</nuxt-link>, for theoretical computer scientists</li>
       <li><nuxt-link to="overview-of-joy">Overview of Joy</nuxt-link>, introductory sections of other papers.</li> 
     </ul>
-    <p><em>You don't like theory? Try the <a href="/papers-on-joy#tutorial">tutorial</a>.</em></p>
+    <p><em>You don't like theory? Try the <nuxt-link to="/papers-on-joy/tutorial-on-joy">tutorial</nuxt-link>.</em></p>
   </section>
 </template>
 
